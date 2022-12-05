@@ -19,3 +19,6 @@
 
 *Server* - A specialised computer for cloud and web servers.
 
+*Instance* -  A computational unit which may be a physical server or a virtual server that is abstracted by a cloud service.
+
+*Autoscaling Group* - A type of cluster that can increase or decrease the number of instances based on demand.
