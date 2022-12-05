@@ -15,7 +15,7 @@
 
 ### Terminologies
 
-**Compute** - Any computer operation requires some computation in a CPU.
+** Compute ** - Any computer operation requires some computation in a CPU.
 
-** Server** - A specialised computer for cloud and web servers.
+** Server ** - A specialised computer for cloud and web servers.
 
