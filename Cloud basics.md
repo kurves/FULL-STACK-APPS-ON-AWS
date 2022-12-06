@@ -51,6 +51,8 @@ Client :left_right_arrow: Server model - Request:left_right_arrow: Response mode
 After the server processes the request a response is sent
 A response can any type of data HTML files, Javascript , CSS , Images , Videos 
 
+Additional data can sent with a response as:
+
 ### Response Status and Type
 
 #### HTTP status code 
@@ -58,4 +60,4 @@ A response can any type of data HTML files, Javascript , CSS , Images , Videos
 - 200 - Request successful
 - 400 - Bad request
 - 401 - Unauthorized
-- 404 - Not found
+- 404 - Resource Not found
