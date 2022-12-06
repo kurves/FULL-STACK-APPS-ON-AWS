@@ -31,4 +31,13 @@ They are systems  that are quick to stand but might result in a lot of technical
 
 #### Technical debt 
 
-Cost of doing something using the easier option now but might require a lot of redoing later
+Cost of doing something using the easier option now instead of an option that might take longer but might require a lot of redoing later.
+May also be caused by poor documentation and lack of comments on code.
+
+### Loosely Coupled 
+
+These are systems that more time upfront but are generally easier to improve on as we continue building.
+
+### Microservices
+
+These are individual specialized systems designed to accompish a specific task. It is software deployed on specialized infrastructure.
