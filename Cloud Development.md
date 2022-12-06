@@ -5,7 +5,7 @@
 - APIs
 - Building a Node.js server that receives requests and sends responses
 - Git
-- Package managemenr for dependencies
+- Package management for dependencies
 
 ### Getting started
 
@@ -15,7 +15,7 @@ Use this [link](https://nodejs.org/en/download/) to install Node which includes 
 
 ### Installing Ionic CLI
 
-The Iconic CLI is requires to serve and build the fronted. Follow the insructions to download Iconic CLI [here](https://ionicframework.com/docs/installation/cli).
+The Iconic CLI is requires to serve and build the fronted. Follow the instructions to download Iconic CLI [here](https://ionicframework.com/docs/installation/cli).
 
 ### Installing Python3
 
@@ -42,7 +42,7 @@ It is useful GUI to interact with our provisioned Postgres database.
 
 #### Postman
 
-**[Postman](https://www.getpostman.com/downloads/)
+**[Postman](https://www.getpostman.com/downloads/)**
 
 Postman is a useful tool to issue and save requests.
-Used to create GET,POST, PUT  requests and to automatting test endpoints.
+Used to create GET,POST, PUT  requests and to automatically test endpoints.
