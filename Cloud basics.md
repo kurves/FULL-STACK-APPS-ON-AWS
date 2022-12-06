@@ -22,3 +22,13 @@
 *Instance* -  A computational unit which may be a physical server or a virtual server that is abstracted by a cloud service.
 
 *Autoscaling Group* - A type of cluster that can increase or decrease the number of instances based on demand.
+
+## Monolithic and Loosely Coupled Systems
+
+### Tightly Coupled
+
+They are systems  that are quick to stand but might result in a lot of technical debt.
+
+#### Technical debt 
+
+Cost of doing something using the easier option now but might require a lot of redoing later
