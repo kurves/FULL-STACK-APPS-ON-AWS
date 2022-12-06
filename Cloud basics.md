@@ -36,7 +36,7 @@ May also be caused by poor documentation and lack of comments on code.
 
 ### Loosely Coupled 
 
-These are systems that more time upfront but are generally easier to improve on as we continue building.
+These are systems that require more time upfront but are generally easier to improve on as we continue building.
 
 ### Microservices
 
@@ -44,7 +44,7 @@ These are individual specialized systems designed to accompish a specific task. 
 
 ## Request Response and APIs
 
-Client :left_right_arrow: Server model - Request:left_right_arrow: Response model
+Client :left_right_arrow: Server Paradigm - Request:left_right_arrow: Response model
 
 ### HTTP Responses
 
