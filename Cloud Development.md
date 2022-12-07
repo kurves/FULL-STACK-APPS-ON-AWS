@@ -10,12 +10,12 @@
 ### Getting started
 
 ### Installing Node and NPM 
-
+NPM is used to manage software dependencies.
 Use this [link](https://nodejs.org/en/download/) to install Node which includes NPM.
 
 ### Installing Ionic CLI
 
-The Iconic CLI is requires to serve and build the fronted. Follow the instructions to download Iconic CLI [here](https://ionicframework.com/docs/installation/cli).
+The Iconic CLI is requires to serve and build the frontend. Follow the instructions to download Iconic CLI [here](https://ionicframework.com/docs/installation/cli).
 
 ### Installing Python3
 
@@ -71,4 +71,16 @@ RESTful APIs use requests, paths, types and bodies to perform a specific action.
 
 Consumable APIs are APIs that are accessible to those outside the organisation. 
 
-###
+### Standing Up a Cloud Capable Server
+
+#### Node 
+
+**Node** is a powerful framework for building network applications outside the browser using Javascript.
+Node is used alongside Express to handle http requests and responses.
+
+#### Typescript
+
+**Typescript** is a flavor of Javascript that forces hard typing on variables and methods.
+This prevents implementation errors like passing a string instead of a number.
+It compiles as pure Javascript.
+
