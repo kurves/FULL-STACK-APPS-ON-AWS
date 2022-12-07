@@ -46,3 +46,29 @@ It is useful GUI to interact with our provisioned Postgres database.
 
 Postman is a useful tool to issue and save requests.
 Used to create GET,POST, PUT  requests and to automatically test endpoints.
+
+### Designing an API
+
+### What is a Server
+A computer connected to a network.
+**Cloud server** - a computer connected to a network that is managed by someone else.
+
+### How to build a server?
+
+We use NodeJS to build servers - A Javascript  based server-side environment to build applications.
+
+Express - a web application server framework
+
+### Application Program Interface
+
+Used to control servers
+
+#### RESTful APIs
+
+RESTful APIs use requests, paths, types and bodies to perform a specific action.
+
+#### Consumable APIs
+
+Consumable APIs are APIs that are accessible to those outside the organisation. 
+
+###
