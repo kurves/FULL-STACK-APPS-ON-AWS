@@ -84,3 +84,15 @@ Node is used alongside Express to handle http requests and responses.
 This prevents implementation errors like passing a string instead of a number.
 It compiles as pure Javascript.
 
+### Testing
+
+#### Unit testing
+
+Unit test ensure tat our atomic functions and methods perform their tasks correctly. **[Mocha and Chai](https://mochajs.org/)** is used for thia purpose.
+
+### Integration Tests
+
+Integration Tests ensure every endpoint in our software package perform theirs tasks correctly., fails appropriately, and communicates with other systems in a predictable manner.
+
+**[Postman](https://www.getpostman.com/)** is used as an integration testing framework.
+
