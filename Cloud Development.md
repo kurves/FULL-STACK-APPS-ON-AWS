@@ -90,6 +90,10 @@ It compiles as pure Javascript.
 
 Unit test ensure tat our atomic functions and methods perform their tasks correctly. **[Mocha and Chai](https://mochajs.org/)** is used for thia purpose.
 
+### Running Mocha and Chai Tests
+
+```npm test``` is used to ru all files that match the pattern ```.tests.t``` and is defined in the ````package.json``` file.
+
 ### Integration Tests
 
 Integration Tests ensure every endpoint in our software package perform theirs tasks correctly., fails appropriately, and communicates with other systems in a predictable manner.
