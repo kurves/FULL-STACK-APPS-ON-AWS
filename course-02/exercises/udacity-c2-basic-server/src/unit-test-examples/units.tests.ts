@@ -40,9 +40,10 @@ describe('divide', () => {
 // don't forget to import the method ;)
  describe('concat', ()=>{
   it('add strings',()=>{
-    //const result = concat('Hello','World');
-    //expect(result).to.equal('HelloWorld');
-    expect(()=>{ concat('hi','there')}).to.equal('hithere')
+  const result = concat('Hello','World');
+   expect(result).to.equal('HelloWorld');
+   const rst =concat('hi','there')
+    expect(rst).to.equal('hithere')
 
   })
   it('throw error',()=>{
