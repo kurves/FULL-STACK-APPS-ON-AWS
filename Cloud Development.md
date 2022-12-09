@@ -100,3 +100,6 @@ Integration Tests ensure every endpoint in our software package perform theirs t
 
 **[Postman](https://www.getpostman.com/)** is used as an integration testing framework.
 
+### Git for Cloud Development
+
+- Best practice is to no push all changes to master branch, only code that has been reviewed and ascertained to work should be pushed to the master or main branch.
