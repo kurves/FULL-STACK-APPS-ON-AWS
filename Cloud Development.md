@@ -103,3 +103,10 @@ Integration Tests ensure every endpoint in our software package perform theirs t
 ### Git for Cloud Development
 
 - Best practice is to no push all changes to master branch, only code that has been reviewed and ascertained to work should be pushed to the master or main branch.
+
+### Packages
+
+**Packages** are libraries of code that are written by other developers and made available through open-source licenses.
+
+Packages help us to develop quickly.
+
