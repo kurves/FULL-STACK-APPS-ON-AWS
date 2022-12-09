@@ -51,6 +51,7 @@ Used to create GET,POST, PUT  requests and to automatically test endpoints.
 
 ### What is a Server
 A computer connected to a network.
+
 **Cloud server** - a computer connected to a network that is managed by someone else.
 
 ### How to build a server?
@@ -92,7 +93,7 @@ Unit test ensure tat our atomic functions and methods perform their tasks correc
 
 ### Running Mocha and Chai Tests
 
-```npm test``` is used to ru all files that match the pattern ```.tests.t``` and is defined in the ````package.json``` file.
+```npm test``` is used to ru all files that match the pattern ```.tests.ts``` and is defined in the ```package.json``` file.
 
 ### Integration Tests
 
