@@ -27,4 +27,4 @@
 
 - **primary key and foreign key:** The primary consists of one or more column in a table that are unique to each record . A foreign key in a table contains the primary key of another table
 
-- **Bloom Filters:** a data structure that is useful for determining if an item is probably in a data set, or definitely not in the data set. 
+- **B-Tree:** a generalization of a binary search tree, which stores sorted data, but can have more than 2 child nodes.
