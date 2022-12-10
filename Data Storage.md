@@ -17,4 +17,14 @@
 
 - **RAM (Random Access Memory):** Data can be accessed quickly, but is erased once the server restarts. 
 
+### Database basics
 
+- NoSQL  and Relational Databases
+
+### Terms
+
+- **Bloom Filters:** a data structure that is useful for determining if an item is probably in a data set, or definitely not in the data set. 
+
+- **primary key and foreign key:** The primary consists of one or more column in a table that are unique to each record . A foreign key in a table contains the primary key of another table
+
+- **Bloom Filters:** a data structure that is useful for determining if an item is probably in a data set, or definitely not in the data set. 
