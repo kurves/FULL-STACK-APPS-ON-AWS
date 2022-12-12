@@ -35,7 +35,13 @@
 
 #### Benefits of Filestores
 
-Filestores help us to store  larger bits of info with lower cost such as and much higher speed for  images,videos or documents.
+Filestores help us to store  larger bits of info with lower cost for  images,videos or documents.
 
+Filestores provides high speeds to deliver the resources.
 
+Filestores allow for archiving of data.
+
+S3 is used as a filestore.
+
+**SignedUrls** - They allow clients to  communicate directly with te filestore.
 
