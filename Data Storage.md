@@ -28,3 +28,14 @@
 - **primary key and foreign key:** The primary consists of one or more column in a table that are unique to each record . A foreign key in a table contains the primary key of another table
 
 - **B-Tree:** a generalization of a binary search tree, which stores sorted data, but can have more than 2 child nodes.
+
+### Filestore 
+
+#### Filestore Basics
+
+#### Benefits of Filestores
+
+Filestores help us to store  larger bits of info with lower cost such as and much higher speed for  images,videos or documents.
+
+
+
