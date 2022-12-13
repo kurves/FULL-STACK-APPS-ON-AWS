@@ -34,3 +34,9 @@ We use the ```@Table``` decorator and extend the base sequelize ```Model``` clas
 The symbol ```!``` is used to specify whether a field in the table can be null.
 
 Sequelize handles the datatype mappings from TypeScript types to Postgres column datatypes.
+
+**Seeding** - Seeds are defaultrows of data that will be inserted upon database creation.
+
+**Decorators**
+Also known as annotations. The are feature of sequelize-typescript are used to link database features with our models
+
