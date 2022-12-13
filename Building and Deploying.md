@@ -9,6 +9,18 @@
 
 ### Object-Relational Maps (ORM)
 
+- ORMs can handle connections to our database.
+
+- Help manage database state 
+
+- Convenient patterns to migrate databases.
+
+- Migration refers to modifying the database
+
+- Up migration is the process of modifying the database to a newer state.
+
+- Down migration is the process of reversing an up migration, to a prior state.
+
 An example of an ORM is **[Sequelize](http://docs.sequelizejs.com/)**
 
 **Model** - It is a data representation of some group of data.
