@@ -51,3 +51,14 @@ Also known as annotations. The are feature of sequelize-typescript are used to l
 - include some source files
 - zip an archive 
 - upload to elastic beanstalk
+
+### Using AWS Elastic Beanstalk
+
+Elastic Beanstalk is a tool used  to deploy your code to AWS services and infrastructure with minimal effort.
+
+### EB CLI
+
+- EB CLI is a Command Line Interface
+
+
+
