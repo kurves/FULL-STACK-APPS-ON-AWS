@@ -44,3 +44,10 @@ Also known as annotations. The are feature of sequelize-typescript are used to l
 ### Deploying Server to the Cloud
 
 ### Basic AWS architecture
+
+### Example of a build process
+
+- Transpile typescript
+- include some source files
+- zip an archive 
+- upload to elastic beanstalk
