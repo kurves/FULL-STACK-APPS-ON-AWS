@@ -1,1 +1,3 @@
-
+- Basic security and user aurhentication on the internet
+- Concepts involved in password capture and storage including encryption
+- Implementing secure communications between a client and server
