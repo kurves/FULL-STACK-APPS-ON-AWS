@@ -10,3 +10,14 @@
 - Password Storage 
 - Passwords should not be stored in plain text
 - Passwords should be encrypted in transit and storage
+- Salted hashes are a good option
+
+### Adding Authetication
+
+## BCrypt 
+
+Bycrpt is a package for hashing passwords
+
+### Sessions, JWTs, and Environment Variables
+
+#### JSON Web Tokens
