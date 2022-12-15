@@ -60,5 +60,9 @@ Elastic Beanstalk is a tool used  to deploy your code to AWS services and infras
 
 - EB CLI is a Command Line Interface
 
+### Creating Deployable Build Archives and Deploying
 
+- We must package our code into a format that is usable by Elastic BeansTALK
+
+- This can be done by transpiling  our TypeScript intojavascript and then zipping the contants into a single file which can be uploaded.
 
