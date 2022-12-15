@@ -40,3 +40,7 @@ Sequelize handles the datatype mappings from TypeScript types to Postgres column
 **Decorators**
 Also known as annotations. The are feature of sequelize-typescript are used to link database features with our models
 
+
+### Deploying Server to the Cloud
+
+### Basic AWS architecture
