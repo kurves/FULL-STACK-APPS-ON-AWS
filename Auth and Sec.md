@@ -32,6 +32,13 @@ use ``` npm run build ```
 
 ### Deploying to the Cloud 
 
-- Once built, you can deploy changes to the elasticbeanstalk instancing by running 
+- Once built, you can deploy changes to the elastic beanstalk instancing by running 
 
 ``` eb deploy```
+
+
+### Examples of Good Security Policies
+
+- npm - [npm](https://docs.npmjs.com/policies/security)
+
+- AWS - [aws](https://aws.amazon.com/security/)
