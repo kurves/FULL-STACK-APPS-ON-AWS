@@ -21,3 +21,7 @@ Bycrpt is a package for hashing passwords
 ### Sessions, JWTs, and Environment Variables
 
 #### JSON Web Tokens
+
+#### Requiring Auth to Restrict Endpoint Usage
+
+- authentication is used to validate the JWT is in the request authorization header.
