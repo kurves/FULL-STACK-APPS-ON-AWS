@@ -25,3 +25,13 @@ Bycrpt is a package for hashing passwords
 #### Requiring Auth to Restrict Endpoint Usage
 
 - authentication is used to validate the JWT is in the request authorization header.
+
+### Building from source
+
+use ``` npm run build ```
+
+### Deploying to the Cloud 
+
+- Once built, you can deploy changes to the elasticbeanstalk instancing by running 
+
+``` eb deploy```
