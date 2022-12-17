@@ -20,4 +20,24 @@ The static build artifacts  can be uploaded to an S3 bucket which can be linked 
 
 - Scaling out involves adding more server instances.
 
-#### Bottlenecks
+
+### Automatic Bug Reporting
+
+**[Sentry](https://sentry.io/)**  is used to catch errors and provide a stack trace to developers.
+
+#### Testing Concurrency
+
+- It is important to test how our cloud will react under high load.
+
+**[Siege](https://www.joedog.org/siege-manual/) is a lightweight CLI to create a large number of concurrent requests.
+
+#### Monitoring 
+
+- **[Cloudfare](https://www.cloudflare.com/)** is used for improved DNS with monitoring and failover capabilities.
+
+- **[Datalog](https://www.datadoghq.com/product/)** for stack perfomance and health status.
+
+- AWS **[CloudWatch](https://aws.amazon.com/cloudwatch/)
+
+
+
