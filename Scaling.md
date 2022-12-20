@@ -29,7 +29,7 @@ The static build artifacts  can be uploaded to an S3 bucket which can be linked 
 
 - It is important to test how our cloud will react under high load.
 
-**[Siege](https://www.joedog.org/siege-manual/) is a lightweight CLI to create a large number of concurrent requests.
+**[Siege](https://www.joedog.org/siege-manual/)** is a lightweight CLI to create a large number of concurrent requests. (locally)
 
 #### Monitoring 
 
@@ -37,7 +37,10 @@ The static build artifacts  can be uploaded to an S3 bucket which can be linked 
 
 - **[Datalog](https://www.datadoghq.com/product/)** for stack perfomance and health status.
 
-- AWS **[CloudWatch](https://aws.amazon.com/cloudwatch/)
+- AWS - **[CloudWatch](https://aws.amazon.com/cloudwatch/)**
+
+- Tools on cloud platforms can be used to monitor and trace your applications deployed on the cloud 
+- Helps to identify  issues that may be leading to sub-optimal user experiences or broken code.
 
 
 
